@@ -26,24 +26,34 @@ NumPy
 
 # 4. Key Findings
 Revenue and Market Trends
+
 Revenue contribution was similar across countries (15–18%).
+
 Australia generated the highest revenue; New Zealand the lowest.
+
 Global sales peaked in June after declining earlier in the year.
+
 Product Performance
 
 # Top-performing products:
 
 Smooth Silky Salty
+
 50% Dark Bites
+
 White Choc
+
 Peanut Butter Cubes
+
 Eclairs
 
 Customer preferences varied by country. Some high-revenue products, such as White Choc, had lower sales volume, suggesting higher profitability.
 
 # Price Sensitivity
 All markets showed a negative correlation between price and sales volume.
+
 Australia, Canada, and the USA were the most price-sensitive.
+
 India showed more stable demand despite price changes.
 
 # 5. Further Analysis
@@ -51,7 +61,11 @@ India showed more stable demand despite price changes.
 # Future work could include:
 
 Building interactive dashboards in Microsoft Power BI
+
 Product performance analysis by country
+
 Customer segmentation and purchasing behavior analysis
+
 Sales forecasting using time-series methods
+
 Evaluating pricing strategies and seasonal demand trends
